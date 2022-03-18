@@ -80,7 +80,7 @@ ul {
 .body1 img {
     max-width: 500px;
     display: flex;
-    flex: 0 1 auto;
+    flex: 0 1 500px;
 }
 
 .body1 .subtext {
@@ -118,7 +118,7 @@ ul {
 
 .body2 img {
     width: auto;
-    height: 200px;
+    height: 400px;
 }
 
 .body2 li {
